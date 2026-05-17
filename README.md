@@ -1,13 +1,18 @@
-# base-farming-guide-RU
-Подробный гайд по прокачке Base Builder Score + onchain-активности для builders в экосистеме Base
-base-builder-score-guide/
-├── README.md                  # Главная страница (на русском)
-├── docs/
-│   ├── onchain-activity.md    # Onchain Score, транзакции, bridges и т.д.
-│   ├── builder-score.md       # Talent Protocol, как набирать 100+
-│   ├── guild-discord.md       # Роли, quests в Guild Era
-│   ├── deploys.md             # Деплой контрактов (Remix, Thirdweb и т.д.)
-│   └── tips-tricks.md         # Лайфхаки, предупреждения о sybil
-├── images/                    # Скриншоты (Talent Score, Guild и т.д.)
-├── CONTRIBUTING.md
-└── LICENSE
+# Гайд по Base Builder Score 💙 (2026)
+
+Подробный русскоязычный гайд по прокачке **Builder Score / Builder Rank** в экосистеме Base (Coinbase L2).  
+Цель — высокий score для репутации, Basenames, еженедельных rewards от Talent Protocol и статуса builder.
+
+**Проверить свой score**: [talent.app](https://talent.app/) или [app.talentprotocol.com](https://app.talentprotocol.com/)
+
+## Структура гайда
+
+- **[Builder Score — полный разбор](docs/builder-score.md)**
+- **[Onchain Activity](docs/onchain-activity.md)**
+- **[Guild & Discord роли](docs/guild-discord.md)**
+- **[Деплой контрактов](docs/deploys.md)**
+- **[Tips & Tricks + предупреждения](docs/tips-tricks.md)**
+
+**Star ⭐ репозиторий, если помог!** PR приветствуются.
+
+**Актуально на май 2026.**
